@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#test script to insert some dummy data into the stream.
+
 import random
 import time
 from datetime import datetime
