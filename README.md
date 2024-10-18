@@ -1,3 +1,5 @@
+https://dox.youroldmangaming.com/monitoring/
+
 ### Importance of Monitoring in DevOps
 
 In DevOps, **monitoring** plays a critical role as it provides visibility into the health, performance, and availability of applications and infrastructure. It allows teams to track key performance indicators (KPIs), identify issues early, and ensure that systems are meeting the desired service level agreements (SLAs). Here’s why monitoring is vital in a DevOps environment:
